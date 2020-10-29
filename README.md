@@ -5,13 +5,13 @@ I am a Fullstack Developer specialized on Front-end. Started 10 years ago as an 
 
 ---
 
-🏡 Living in Lorena, São Paulo - Brazil 
+🏡 Living in [Lorena, São Paulo - Brazil](https://pt.wikipedia.org/wiki/Lorena_(S%C3%A3o_Paulo)) 
 
-👨‍💻 Currently finishing the new @1carimflex e-commerce.
+👨‍💻 Currently finishing the new [CarimFlex e-commerce](https://shop.carimflex.com.br/).
 
 🧪 Leaning, sharing and helping with some open source projects
 
-In am also a musician (compositor and guitarrist on [Wayfore](https://www.youtube.com/user/w4banda)) and love creating new projects
+Also I am a musician _(compositor and guitarrist on [Wayfore](https://www.youtube.com/user/w4banda))_ and love creating new projects.
 
 
 <!--
