@@ -11,7 +11,7 @@ I am a Fullstack Developer specialized on Front-end. Started 10 years ago as an 
 
 🧪 Leaning, sharing and helping with some open source projects
 
-Also I am a musician _(compositor and guitarrist on [Wayfore](https://www.youtube.com/user/w4banda))_ and love creating new projects.
+🎶 Also I am a musician _(compositor and guitarrist on [Wayfore](https://www.youtube.com/user/w4banda))_ and love creating new projects.
 
 
 <!--
