@@ -7,11 +7,15 @@ I am a Fullstack Developer specialized on Front-end. Started 10 years ago as an 
 
 🏡 Living in [Lorena, São Paulo - Brazil](https://pt.wikipedia.org/wiki/Lorena_(S%C3%A3o_Paulo)) 
 
+🎮 Working as Software Engineer at [Gamers Club](https://gamersclub.com.br/)
+
 👨‍💻 Currently finishing the new [CarimFlex e-commerce](https://shop.carimflex.com.br/).
 
-🧪 Leaning, sharing and helping with some open source projects
+🧪 Leaning, sharing and helping some open source projects
 
-🎶 Also I am a musician _(compositor and guitarrist on [Wayfore](https://www.youtube.com/user/w4banda))_ and love creating new projects.
+🎶 Also I am a musician _(compositor and guitarrist on [Wayfore](https://www.youtube.com/user/w4banda))_ 
+
+✍ Love creating side projects
 
 
 <!--
