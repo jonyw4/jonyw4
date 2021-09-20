@@ -1,5 +1,5 @@
 ## Hi there, my name is Jonathan _(you can call me Jony 😁)_ 👋 
-I am a Fullstack Developer specialized on Front-end. Started 10 years ago as an hobbie and now its my life.
+I am a Software Engineer specialized on Front-end. Started 10 years ago as an hobbie and now its my life.
 
 ❤ Loving to work with _Typescript, React, React Native and Nodejs_
 
