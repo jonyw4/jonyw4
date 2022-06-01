@@ -9,9 +9,8 @@ I am a Software Engineer specialized on Front-end. Started 10 years ago as an ho
 
 🏡 Living in [Lorena, São Paulo - Brazil](https://pt.wikipedia.org/wiki/Lorena_(S%C3%A3o_Paulo)) 
 
-🐶 Working as Front end Software Engineer (Contract) at [Bought By Many](https://boughtbymany.com/)
+🐶 Working as Front end Software Engineer at [ManyPets](https://manypets.com/)
 
-👨‍💻 Currently finishing the new [CarimFlex e-commerce](https://shop.carimflex.com.br/).
 
 🧪 Leaning, sharing and helping some open source projects
 
