@@ -10,4 +10,4 @@ I'm a staff software engineer, 3x founder, with strong experience leading global
 
 ### Contact
 
-📧 [hi@jonycelio.com](mailto:hi@jonycelio.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jonycelio)
+🌐 **[jonycelio.com](https://jonycelio.com)** · 📧 [hi@jonycelio.com](mailto:hi@jonycelio.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jonycelio)
