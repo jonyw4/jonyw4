@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="190" height="36" viewBox="0 0 190 36">
-  <rect width="190" height="36" rx="6" fill="#1c213f"/>
+  <rect width="190" height="36" rx="6" fill="#de8650"/>
   <text x="86" y="23" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">See the full story</text>
   <path d="M155 13l5 5-5 5" stroke="#fff" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
