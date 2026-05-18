@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="48" viewBox="0 0 260 48">
-  <rect width="260" height="48" rx="8" fill="#ee341c"/>
-  <text x="118" y="30" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#fff" text-anchor="middle">See the full story</text>
-  <path d="M210 18l8 6-8 6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
+  <rect width="220" height="40" rx="7" fill="#ee341c"/>
+  <text x="100" y="26" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#fff" text-anchor="middle">See the full story</text>
+  <path d="M178 15l6 5-6 5" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
