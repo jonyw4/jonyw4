@@ -6,9 +6,9 @@ Not much to see here — just green squares. The real story (spoiler: it starts 
 
 <div align="left">
 
-[<img src="https://raw.githubusercontent.com/jonyw4/jonyw4/main/assets/cta-portfolio.svg" alt="Visit jonycelio.com — portfolio, case studies and CV" height="48" />](https://jonycelio.com)
+[<img src="https://raw.githubusercontent.com/jonyw4/jonyw4/main/assets/cta-portfolio.svg" alt="See the full story at jonycelio.com" height="48" />](https://jonycelio.com)
 
-</div>
+</motion>
 
 ### Contact
 
