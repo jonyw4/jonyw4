@@ -2,7 +2,7 @@
 
 **Staff Software & Product Engineer · 3x Founder · AI Researcher**
 
-Not much to see here — just green squares. The real story (spoiler: it starts with a PlayStation bet at 14) is on my site.
+Not much to see here — just green squares. The real story *(spoiler: it starts with a PlayStation bet at 14)* is on my site.
 
 <div align="left">
 
